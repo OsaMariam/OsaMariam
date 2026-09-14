@@ -26,12 +26,12 @@ Configuring a SOAR workflow and deciding which steps should run automatically an
 
 ## What I work with
 
-**SIEM** Splunk, Elastic Stack (ELK)
-**Endpoint** EDR triage and detection review
-**Analysis** Windows Event Logs, Sysmon, authentication logs, network traffic
-**Frameworks** MITRE ATT&CK, incident response workflow
-**OSINT** VirusTotal, urlscan.io, Wayback Machine
-
+- **SIEM** Splunk, Elastic Stack (ELK)
+- **Endpoint** EDR triage and detection review
+- **Analysis** Windows Event Logs, Sysmon, authentication logs, network traffic
+- **Frameworks** MITRE ATT&CK, incident response workflow
+- **OSINT** VirusTotal, urlscan.io, Wayback Machine
+  
 ## Currently
 
 Working through the TryHackMe SOC Level 1 pathway and studying for CompTIA Security+. Also completing an MBA in Cybersecurity with Nexford University.
