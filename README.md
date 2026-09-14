@@ -2,7 +2,7 @@
 
 I'm a security analyst in training based in Lagos, moving into cybersecurity from a background in banking and marketing. I'm working toward a SOC analyst role.
 
-Everything here is work I did myself: labs I worked through, investigations I ran, and write-ups of what I found. Each project has a full case study in the README and the original report, screenshots and all, attached as a PDF. I document them the same way every time so you can see how I think, not just which tools I've touched.
+Everything here is work I did myself: labs I worked through, investigations I ran and write ups of what I found. Each project has a full case study in the README and the original report, screenshots and all, attached as a PDF. I document them the same way every time so you can see how I think, not just which tools I've touched.
 
 ## Projects
 
@@ -38,7 +38,7 @@ Working through the TryHackMe SOC Level 1 pathway and studying for CompTIA Secur
 
 ## Background
 
-Before security I spent years in banking at Fidelity Bank, then in sales and marketing. That means I understand how a financial institution actually runs, who has access to what, and why controls exist. It turns out that is useful in this field.
+Before security I spent years in sales and marketing then banking at Fidelity Bank. That means I understand how a financial institution actually runs, who has access to what and why controls exist. It turns out that is useful in this field.
 
 ## Find me
 
